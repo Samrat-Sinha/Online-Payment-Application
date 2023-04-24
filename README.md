@@ -1,5 +1,5 @@
 
-# REST API for Online Payment Application
+# REST API for Payment Wallet Application
 
 
 #Customers will be able to park their money in the wallet.
